@@ -1,4 +1,4 @@
-pandas==2.0.1
+
 numpy==1.24.3
 nltk==3.7
 scikit-learn==1.1.2
@@ -6,3 +6,5 @@ streamlit==1.16.0
 setuptools>=67.0.0
 wheel
 disutils
+pandas==2.0.1
+altair
